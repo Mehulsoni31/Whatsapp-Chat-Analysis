@@ -8,3 +8,7 @@ But I thought why not do Data Analysis on a WhatsApp group chat of college stude
 
 These would be some interesting insights for sure, more for me than for you, since the people in this chat are people I know personally.
 
+
+# A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
